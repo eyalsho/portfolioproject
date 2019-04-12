@@ -3,4 +3,5 @@ from .models import Jobs
 
 
 admin.site.register(Jobs)
+
 # Register your models here.
